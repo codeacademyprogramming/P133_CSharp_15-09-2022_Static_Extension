@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13315092022\Static\bin\Debug\netcoreapp3.1\Static.exe
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13315092022\Static\bin\Debug\netcoreapp3.1\Static.deps.json
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13315092022\Static\bin\Debug\netcoreapp3.1\Static.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13315092022\Static\bin\Debug\netcoreapp3.1\Static.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13315092022\Static\bin\Debug\netcoreapp3.1\Static.dll
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13315092022\Static\bin\Debug\netcoreapp3.1\Static.pdb
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13315092022\Static\obj\Debug\netcoreapp3.1\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13315092022\Static\obj\Debug\netcoreapp3.1\Static.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13315092022\Static\obj\Debug\netcoreapp3.1\Static.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13315092022\Static\obj\Debug\netcoreapp3.1\Static.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13315092022\Static\obj\Debug\netcoreapp3.1\Static.dll
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13315092022\Static\obj\Debug\netcoreapp3.1\Static.pdb
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13315092022\Static\obj\Debug\netcoreapp3.1\Static.genruntimeconfig.cache
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13315092022\Static\obj\Debug\netcoreapp3.1\Static.csproj.AssemblyReference.cache
